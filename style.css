@@ -27,6 +27,7 @@ body {
     color: #333;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     line-height: 1.42;
+    font-size: 14px;
 }
 
 .footer {
@@ -109,4 +110,9 @@ img {
 
 .contact-item {
     display: flex;
+    margin: 8px;
+}
+
+b {
+    font-weight: 700px;
 }
